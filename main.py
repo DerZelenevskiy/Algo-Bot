@@ -67,4 +67,4 @@ async def on_ready():
     for guild in client.guilds:
         print(guild.name, guild.id)
 
-client.run('OTY5ODU1MTg1NzgwMzQyODU0.YmzeBw.-Zfdw47tPAiKnOAtNU3TSmojIa8')
+client.run('TOKEN')
