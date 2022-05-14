@@ -117,4 +117,4 @@ async def on_ready():
     for guild in client.guilds:
         print(guild.name, guild.id)
 
-client.run('OTY5ODU1MTg1NzgwMzQyODU0.G2sMF3.Y8qWvcOQva2ssQq_XkfFL91c8Q1J-ktiJqDYJ8')
+client.run('')
